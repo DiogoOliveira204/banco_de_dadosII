@@ -52,6 +52,6 @@ python populate_museudb.py
 
 📚 Objetivo
 
-Demonstrar a integração entre bancos relacionais e não relacionais, aplicando conceitos de modelagem, normalização e manipulação de dados em um contexto realista.
+
 
 Demonstrar a integração entre bancos relacionais e não relacionais, aplicando conceitos de modelagem, normalização e manipulação de dados em um contexto realista.
